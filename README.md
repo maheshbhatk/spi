@@ -1,2 +1,4 @@
 # spi
-Work under progress
+
+SPI Master and SPI Slave.
+
